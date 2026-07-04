@@ -27,11 +27,11 @@ export const publications = [
         url: 'https://doi.org/10.1145/3790101'
     },
     {
-        title: 'When LLMs Meet API Documentation: Can Retrieval Augmentation Aid Code Generation Just as It Helps Developers?',
+        title: 'When Retrieval Augmentation Meets API Documentation: Can LLMs Code with Less-Common Libraries?',
         authors: 'Jingyi Chen, Songqiang Chen, Jialun Cao, Jiasi Shen, Shing-Chi Cheung',
-        venue: 'preprint',
-        year: '2025',
-        url: 'https://arxiv.org/abs/2503.15231'
+        venue: 'ACM Transactions on Software Engineering and Methodology',
+        year: '2026',
+        url: 'https://doi.org/10.1145/3821424'
     }
 ];
 
