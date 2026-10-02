@@ -20,6 +20,13 @@ export const about = [
 
 export const publications = [
     {
+        title: 'Understanding Agent-Reactive Bugs at the Model-Harness Boundary: An Empirical Study of LLM Agent Issue Reports',
+        authors: 'Jingyi Chen, Songqiang Chen, Hengcheng Zhu, Jialun Cao, Jiasi Shen, Shing-Chi Cheung',
+        venue: 'preprint',
+        year: '2026',
+        url: 'https://arxiv.org/abs/2607.15684'
+    },
+    {
         title: 'Can Emulating Semantic Translation Help LLMs with Code Translation? A Study Based on Pseudocode',
         authors: 'Songqiang Chen, Congying Xu, Jingyi Chen, Jialun Cao, Jiarong Wu, Shing-Chi Cheung',
         venue: 'ACM Transactions on Software Engineering and Methodology',
